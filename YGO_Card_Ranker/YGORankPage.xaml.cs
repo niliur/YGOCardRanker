@@ -76,9 +76,9 @@ namespace YGO_Card_Ranker
             }
             set
             {
-                if (CurCard.CardCode != 0)
+                if (value.CardCode != 0)
                 {
-                    CurCardRating = yrdb.GetRankByGid(CurCard.CardCode);
+                    CurCardRating = yrdb.GetRankByGid(value.CardCode);
 
                 }
                 SetValue(CurCardProperty, value);
