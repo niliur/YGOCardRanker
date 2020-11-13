@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGO_Card_Ranker", "YGO_Card_Ranker\YGO_Card_Ranker.csproj", "{65094CA2-EBB5-4283-9819-C51143316F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65094CA2-EBB5-4283-9819-C51143316F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65094CA2-EBB5-4283-9819-C51143316F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65094CA2-EBB5-4283-9819-C51143316F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65094CA2-EBB5-4283-9819-C51143316F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC10519-5370-4A9D-8E86-EA0044EF6A58}
+	EndGlobalSection
+EndGlobal
